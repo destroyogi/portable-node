@@ -3,7 +3,7 @@ portable-node
 
 Install node.js locally on Windows and Linux without administrator rights.
 
-Note: when specifying version at the command line, a full version number (MAJOR.MINOR.PATCH) must be specified !
+Note: when specifying version at the cqommand line, a full version number (MAJOR.MINOR.PATCH) must be specified !
 
 Windows Instructions
 --------------------
